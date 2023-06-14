@@ -38,3 +38,5 @@ def ftts(text):
   
   gtts_object.save("F-audio.mp3")
   return Audio("F-audio.mp3")
+
+![image](https://github.com/sjhwang031/DL23/assets/127395588/0d80498d-9ad5-4e4b-aa5e-ba74056155c0)
